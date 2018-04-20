@@ -30,6 +30,9 @@ Obj/
 .vs/
 /wwwroot/dist/
 
+# Rider options directori
+.idea/
+
 /yarn.lock
 
 # MSTest test Results
